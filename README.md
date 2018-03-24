@@ -8,9 +8,9 @@
 #### Home page
 
 列数自适应，主要采用浮动进行多列布局。
-
+Xiada-Travel-Agency/effectSnapshots/Home_Mobile.png
 移动端：
-![image](E:/frontEnd/XiadaTravelAgency/effectSnapshots/Home_Mobile.png)
+![image](https://github.com/wangbinXMU/Xiada-Travel-Agency/blob/master/effectSnapshots/Home_Mobile.png)
 
 PC端：截取的1250px
 
