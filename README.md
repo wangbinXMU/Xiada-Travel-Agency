@@ -9,12 +9,12 @@
 
 列数自适应，主要采用浮动进行多列布局。
 Xiada-Travel-Agency/effectSnapshots/Home_Mobile.png
-移动端：
+#### 移动端：
 ![image](https://github.com/wangbinXMU/Xiada-Travel-Agency/blob/master/effectSnapshots/Home_Mobile.png)
 
-PC端：截取的1250px
+#### PC端：截取的1250px
 
-![image](E:/frontEnd/XiadaTravelAgency/effectSnapshots/Home_PC.png)
+![image](https://github.com/wangbinXMU/Xiada-Travel-Agency/blob/master/effectSnapshots/Home_PC.png)
 
 #### Scenery Show page
 
@@ -22,11 +22,11 @@ PC端：截取的1250px
 
 移动端：
 
-![image](E:/frontEnd/XiadaTravelAgency/effectSnapshots/SceneryShow_Mobile.png)
+![image](https://github.com/wangbinXMU/Xiada-Travel-Agency/blob/master/effectSnapshots/SceneryShow_Mobile.png)
 
 PC:
 
-![image](E:/frontEnd/XiadaTravelAgency/effectSnapshots/SceneryShow_PC.png)
+![image](https://github.com/wangbinXMU/Xiada-Travel-Agency/blob/master/effectSnapshots/SceneryShow_PC.png)
 
 #### Travel Info page
 
@@ -34,11 +34,11 @@ PC:
 
 移动端：
 
-![image](E:/frontEnd/XiadaTravelAgency/effectSnapshots/TravelInfo_Mobile.png)
+![image](https://github.com/wangbinXMU/Xiada-Travel-Agency/blob/master/effectSnapshots/TravelInfo_Mobile.png)
 
 PC:
 
-![image](E:/frontEnd/XiadaTravelAgency/effectSnapshots/TravelInfo_PC.png)
+![image](https://github.com/wangbinXMU/Xiada-Travel-Agency/blob/master/effectSnapshots/TravelInfo_PC.png)
 
 
 剩余页面与Travel Info页面类似
