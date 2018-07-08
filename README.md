@@ -1,6 +1,6 @@
 
 ### Xiada旅游网
-###### 该网站主页面共有五个，包括Home, Travel Info, Ticket Order, Scenery Show, About
+###### 该网站主页面共有五个，包括Home, Travel Info, Ticket Order, Scenery Show, About,静态页面,未增加交互功能
 
 ###### 本站利用媒体查询实现了响应式布局，适应的分辨率为320px-1920px，能很好的适配手机移动端，PAD端,及PC端。页面的构建采用HTML5的部分新标签，如aside, figure,figcaption,section等
 
